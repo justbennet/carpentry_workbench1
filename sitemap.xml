@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://justbennet.github.io/carpentry_workbench1/reference.html</loc>
   </url>
 </urlset>
